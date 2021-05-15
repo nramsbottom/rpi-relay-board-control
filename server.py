@@ -1,3 +1,7 @@
+
+# pip3 install cherrypy
+# pip3 install pishiftpy
+
 import cherrypy
 import PiShiftPy as shift
 from cherrypy.lib import auth_basic
